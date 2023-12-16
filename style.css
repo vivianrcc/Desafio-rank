@@ -1,0 +1,9 @@
+body {
+    background: lightpink; /* Make it white if you need */
+    color:black(89, 58, 121)
+    padding: 0 24px;
+    margin: 0;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
